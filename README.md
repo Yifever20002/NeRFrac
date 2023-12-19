@@ -2,7 +2,7 @@
 
 This is the repo for the ICCV 2023 project
 
->NeRFrac: Neural Radiance Fields through Refractive Surface,\
+>[NeRFrac: Neural Radiance Fields through Refractive Surface](https://openaccess.thecvf.com/content/ICCV2023/html/Zhan_NeRFrac_Neural_Radiance_Fields_through_Refractive_Surface_ICCV_2023_paper.html),\
 >Yifan Zhan, Shohei Nobuhara, Ko Nishino, Yinqiang Zheng\
 >IEEE International Conference on Computer Vision (ICCV), 2023
 
