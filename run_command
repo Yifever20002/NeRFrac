@@ -1,3 +1,0 @@
-CUDA_VISIBLE_DEVICES=0 python run_nerof.py --config configs/box.txt
-
-tensorboard --logdir=./tensorboard --port 8123
