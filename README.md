@@ -16,11 +16,11 @@ Neural Radiance Fields (NeRF) is a popular neural expression for novel view synt
 ## Installation
 
 ``````
-    git clone https://github.com/Yifever20002/NeRFrac.git
-    cd NeRFrac
-    conda create -n NeRFrac python=3.6
-    conda activate NeRFrac
-    pip install -r requirements.txt
+git clone https://github.com/Yifever20002/NeRFrac.git
+cd NeRFrac
+conda create -n NeRFrac python=3.6
+conda activate NeRFrac
+pip install -r requirements.txt
 ``````
 
 ## Demo Data
