@@ -20,6 +20,7 @@ git clone https://github.com/Yifever20002/NeRFrac.git
 cd NeRFrac
 conda create -n NeRFrac python=3.6
 conda activate NeRFrac
+conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch -c nvidia
 pip install -r requirements.txt
 ``````
 
