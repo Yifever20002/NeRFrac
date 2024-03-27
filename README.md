@@ -1,10 +1,9 @@
 # NeRFrac
 
-![example gif](https://github.com/Yifever20002/NeRFrac/blob/main/images/real_fish.gif)
-<img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_fish.gif" alt="fish" width="300" height="200">
-![example gif](https://github.com/Yifever20002/NeRFrac/blob/main/images/real_redflower.gif)
-![example gif](https://github.com/Yifever20002/NeRFrac/blob/main/images/real_tree.gif)  
-![example gif](https://github.com/Yifever20002/NeRFrac/blob/main/images/real_plant.gif)
+<img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_fish.gif" alt="fish" width="320" height="240">
+<img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_redflower.gif" alt="redflower" width="320" height="240">
+<img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_tree.gif" alt="tree" width="320" height="240">
+<img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_plant.gif" alt="plant" width="320" height="240">
 
 This is the repo for the ICCV 2023 project
 
