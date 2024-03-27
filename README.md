@@ -5,6 +5,13 @@
 <img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_tree.gif" alt="tree" width="320" height="240">
 <img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_plant.gif" alt="plant" width="320" height="240">
 
+<div style="display: inline-block;">
+    <img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_fish.gif" alt="fish" width="320" height="240">
+</div>
+<div style="display: inline-block;">
+    <img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_redflower.gif" alt="redflower" width="320" height="240">
+</div>
+
 This is the repo for the ICCV 2023 project
 
 >[NeRFrac: Neural Radiance Fields through Refractive Surface](https://openaccess.thecvf.com/content/ICCV2023/html/Zhan_NeRFrac_Neural_Radiance_Fields_through_Refractive_Surface_ICCV_2023_paper.html)\
