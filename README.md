@@ -28,3 +28,12 @@ pip install -r requirements.txt
 
 This part encompasses single-frame multi-view data in both the main text and the supplementary material, including images and [COLMAP](https://colmap.github.io/)-calibrated camera poses (with original image resolution, 2048&times;1536 for real data and 392&times;392 for synthetic data). We use "images_4" for real data training and "images_1" for synthetic data training. Download from [here](https://drive.google.com/drive/folders/1A78v0qNCQlqS01AD77IqjhNrL9p0rkBF?usp=sharing) and place them under /pth/to/NeRFrac/data/nerf_llff_data/ .
 
+## How to run?
+
+To train a specific data, using
+``````
+python run_nerfrac.py --config configs/syn_primary_sine.txt
+``````
+
+To render a pre-trained model, set render_only == 1 and render_test == 1.
+
