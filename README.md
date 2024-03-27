@@ -1,6 +1,6 @@
 # NeRFrac
 
-![image](https://github.com/Yifever20002/NeRFrac/blob/main/images/real_fish.gif)
+![example gif](https://github.com/Yifever20002/NeRFrac/blob/main/images/real_fish.gif)
 
 This is the repo for the ICCV 2023 project
 
