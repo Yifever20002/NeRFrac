@@ -24,9 +24,11 @@ conda install pytorch torchvision torchaudio cudatoolkit=11.3 -c pytorch -c nvid
 pip install -r requirements.txt
 ``````
 
+
 ## Demo Data
 
 This part encompasses single-frame multi-view data in both the main text and the supplementary material, including images and [COLMAP](https://colmap.github.io/)-calibrated camera poses (with original image resolution, 2048&times;1536 for real data and 392&times;392 for synthetic data). We use "images_4" for real data training and "images_1" for synthetic data training. Download from [here](https://drive.google.com/drive/folders/1A78v0qNCQlqS01AD77IqjhNrL9p0rkBF?usp=sharing) and place them under /pth/to/NeRFrac/data/nerf_llff_data/ .
+
 
 ## How to run?
 
@@ -41,3 +43,17 @@ To visualize the training process, use
 ``````
 tensorboard --logdir=./tensorboard --port 8123
 ``````
+
+## Citation
+``````
+@inproceedings{zhan2023nerfrac,
+  title={Nerfrac: Neural radiance fields through refractive surface},
+  author={Zhan, Yifan and Nobuhara, Shohei and Nishino, Ko and Zheng, Yinqiang},
+  booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+  pages={18402--18412},
+  year={2023}
+}
+``````
+
+
+
