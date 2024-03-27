@@ -30,10 +30,14 @@ This part encompasses single-frame multi-view data in both the main text and the
 
 ## How to run?
 
-To train a specific data, using
+To train a specific data, use
 ``````
 python run_nerfrac.py --config configs/syn_primary_sine.txt
 ``````
 
 To render a pre-trained model, set render_only == 1 and render_test == 1.
 
+To visualize the training process, use
+``````
+tensorboard --logdir=./tensorboard --port 8123
+``````
