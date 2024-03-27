@@ -1,5 +1,7 @@
 # NeRFrac
 
+![gif](https://github.com/Yifever20002/NeRFrac/blob/main/images/real_fish.gif)
+
 This is the repo for the ICCV 2023 project
 
 >[NeRFrac: Neural Radiance Fields through Refractive Surface](https://openaccess.thecvf.com/content/ICCV2023/html/Zhan_NeRFrac_Neural_Radiance_Fields_through_Refractive_Surface_ICCV_2023_paper.html)\
