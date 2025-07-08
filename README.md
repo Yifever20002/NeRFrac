@@ -1,4 +1,4 @@
-# NeRFrac
+# NeRFrac: Neural Radiance Fields through Refractive Surface
 
 <img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_fish.gif" alt="fish" width="320" height="240">  <img src="https://github.com/Yifever20002/NeRFrac/blob/main/images/real_redflower.gif" alt="redflower" width="320" height="240">
 
